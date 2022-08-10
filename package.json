@@ -1,0 +1,25 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "backend avanzado mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \" esto es el test 2\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/servo98/ejercicio1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/servo98/ejercicio1/issues"
+  },
+  "homepage": "https://github.com/servo98/ejercicio1#readme",
+  "dependencies": {
+    "mongoose": "^6.5.1"
+  }
+}
